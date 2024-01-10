@@ -1,0 +1,198 @@
+/*-first div*/
+header{
+    background-image: url(Banner\ Image.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+    margin: 0% 5% 5% 5%; 
+}
+.happy{
+    color: #FFF;
+text-align: center;
+font-family: Merriweather;
+font-size: 32px;
+padding-top: 100px;
+}
+.new{
+    color: #FFF;
+text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+padding-top: 0px;
+}
+/*secouind div*/
+main{
+    text-align: center;
+    
+}
+nav{
+    background-image: url(Vectorrr.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+    margin: 5%;
+    display:flex;
+}
+.inner{
+    padding: 126px 0px 0px 126px;
+    
+}
+.ap{
+    padding: 50px 0px 0px 126px;
+    color: #FFF;
+font-family: Merriweather;
+font-size: 64px;
+}
+.apc{
+    padding: 0px 55px 0px 126px;
+    color: #FFF;
+    font-family: Merriweather;
+    font-size: 64px;
+}
+.c{
+    color:#FFF;
+font-family: Inter;
+font-size: 18px;
+padding-left: 126px;
+text-decoration: none;
+}
+.btn{
+    border:opx;
+    color:#FFF;
+    font-size: 20px;
+    background-color: none;
+    padding-left: 126px;
+
+}
+.c{
+    width:50%;
+}
+/*Adress*/
+address{
+    display: block;
+    font-style: normal;
+    text-align: center;
+    color: #070211;
+    font-size: 32px;
+    margin-bottom: 50px;
+    height: 482px;
+    background-color: antiquewhite;
+    padding-top: 80px;
+    margin: 0% 5% 5% 5%; 
+    background-position: center;
+}
+.Unsolved{
+    background-position: center;
+}
+.place{
+    color: red;
+    padding-bottom: 20px;
+}
+.button{
+    border-radius: 8px;
+    background: #F00;
+    border: 0px;
+    font-size:32px ;
+}
+/*iom;ortant*/
+.Unsolved{
+    display: flex;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+.NEW{
+    display: flex;
+    background-position: center;
+    margin: 0% 5% 5% 5%;
+}
+.x{
+    padding-left: 50px;
+}
+.y{
+    padding-right: 30px;
+}
+.s{
+    border:30px solid rgb(243, 41, 19);
+    border-radius: 250px;
+    padding:30px;
+}
+/* dificult*/
+.dif{
+    margin: 5% 5%;
+    text-align: center;
+    background-image: url("Rectangle 2.png");
+    background-repeat: no-repeat;
+    background-position: bottom;
+}
+.img{
+    display:flex;
+    height:150px
+    width:90%;
+}
+/*last*/
+#limg{
+    margin: 5% 5% 5% 5%;
+    padding-right: 15px%;
+    background-position: center;
+}
+/*next*/
+.sub{
+    text-align: center;
+    padding-top: 150px;
+    margin: 5% 5%;
+    height: 616px;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05);
+}
+.email{
+    margin: 0px;
+    padding: 10px;
+    border-radius:  15px;
+}
+.ema{
+    margin: 0px;
+    background-color: #F00;
+    border-radius: 15px;
+    padding: 15px;
+    
+}
+/* footer*/
+footer{
+    background: #070211;
+    height: 609px;
+}
+#lit{
+    display: flex;
+}
+.left{
+    padding: 120px 0px 0px 140px;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    background-position: center;
+    text-align: center;
+}
+.right{
+     padding-top: 120px;
+     padding-left: 50%;
+    color: #FFF;
+    font-size:20px;
+}
+.icon{
+    text-align: center;
+    padding: 7px 7px 15px 7px;
+}
+.last{
+    padding-left: 5%;
+    color: #FFF;
+    font-family: Inter;
+    font-size: 24px;
+    display:inline-flex;
+    list-style: none;
+}
+#un{
+    text-align: right;
+    margin-left: 500%;
+}

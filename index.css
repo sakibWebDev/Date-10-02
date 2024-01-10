@@ -1,3 +1,279 @@
-h1{
-    color:aquamarine;
+body{
+    width:auto;
+}
+/*-first div*/
+.header{
+    background-image: url(image/Banner\ Image.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+    width:100%;
+    margin: 05% 5% 5% 5%; 
+}
+.happy{
+    color: #FFF;
+text-align: center;
+font-family: Merriweather;
+font-size: 32px;
+padding-top: 100px;
+}
+.new{
+    color: #FFF;
+text-align: center;
+font-family: Merriweather;
+font-size: 72px;
+padding-top: 0px;
+}
+/*-header 1*/
+.sakib{
+    text-align: center;
+    background-size: cover;
+    background-position: center;
+}
+.sakib h1 {
+    color: #F00;
+    font-size: 88px;
+    text-align: center;
+}
+.sakib h3 {
+    color: #F00;
+    font-size: 24px;
+    text-align: center;
+}
+.sakib h2 {
+    color: #070211;
+    font-size: 48px;
+}
+*/header3*/
+main {
+    background-image: url(image/Vectorrr.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+    width:100%;
+    margin: 05% 5% 5% 5%;
+    display: flex;
+}
+.rakib{
+    background-image: url(image/Vectorrr.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 600px;
+    width:100%;
+    margin: 05% 5% 5% 5%; 
+    display:flex;
+    align-items: right;
+}
+.rakib p {
+    width: 400px;
+color:#FFF;
+font-family: Inter;
+font-size: 18px;
+}
+.rakib h1 {
+    padding-top: 140px;
+    color: #FFF;
+font-family: Merriweather;
+font-size: 64px;
+}
+.rakib a, p, h1 {
+    text-align: left;
+    padding-left: 0px;
+    dislay:flex;
+}
+.rakib img {
+    padding-left: 400px;
+}
+.rakib a {
+   text-decoration: none;
+   color:#FFF;
+    font-size: 20px;
+    padding-left: 150px;
+}
+/*Adress*/
+address{
+    display: block;
+    font-style: normal;
+    text-align: center;
+    color: #070211;
+    font-size: 32px;
+    margin-bottom: 50px;
+    height: 482px;
+    background-color: antiquewhite;
+    padding-top: 80px;
+    margin: 0% 5% 5% 5%; 
+    background-position: center;
+}
+.Unsolved{
+    background-position: center;
+}
+.place{
+    color: red;
+    padding-bottom: 20px;
+}
+.button{
+    border-radius: 8px;
+    background: #F00;
+    border: 0px;
+    font-size:32px ;
+}
+/*romjan*/
+.romjan {
+    display:flex;
+    margin: 5% 5% 5% 5%;
+    height: 600px;
+
+}
+.elliscope{
+    border:30px solid rgb(243, 41, 19);
+    border-radius: 300px;
+    padding:30px;
+    margin-right: 26px;
+}
+.paddinding{
+    padding-top: 100px;
+    display:block;
+    padding-left: 0px;
+}
+.romjan .paddinding {
+    display:block;
+}
+.romjan h1 {
+    color: #F00; 
+    font-size: 24px;
+}
+.romjan h5 {
+    color: #070211; 
+    font-size: 48px;
+}
+.romjan h2 {
+    color: #F00; 
+    font-size: 48px;
+    padding: 0px 0px 20px 20px;
+}
+.romjan p {
+    color:#070211;
+    font-size:20px;
+}
+.i{
+    width: 140px;
+    height: 140px;padding: 20px 0px 20px px;
+}
+/*sol*/
+.sol h3, h1,p{
+    text-align: center;
+    margin:0% 5% 0% 5%; ;
+}
+.sol h3{
+    color:#070211;
+    font-size: 24px;
+
+}
+.sol h1{
+    color:#390d92;
+    font-family: Merriweather;
+    font-size: 72px;
+}
+.sol p{
+    color: rgba(7, 2, 17, 0.60);
+    font-size: 20px;
+}
+.holi{
+    color:#F00;
+    font-family: Merriweather;
+}
+/*image*/
+.what{
+    background-image: url("image/Rectangle 2.png");
+    background-repeat: no-repeat;
+    background-position: bottom;
+    background-size: auto;
+    background-size: cover;
+    margin: 5%;
+}
+.gor{
+    text-align: right;
+    padding-bottom: 225px;
+    margin: none;
+    display: block;
+}
+.goru{
+    text-align: right;
+    padding-bottom: 225px;
+    margin: none;
+    padding-left:20px;
+}
+/* hello*/
+.hello h3{
+    color: #F00; 
+    font-size: 88px;
+    text-align: center;
+margin-bottom: 0px;}
+.hello h1{
+    color: black; 
+    font-size: 88px; 
+}
+.hello p{
+    font-size: 20px;
+}
+/*Table*/
+.able{
+    text-align: center;
+    margin: 5%;
+    background: scroll;
+}
+.sub{
+    text-align: center;
+    height: 616px;
+    background-color: bisque;
+    margin: 5%;
+}
+.sub img{
+    padding-top: 75px;
+}
+.sub h2 {
+    font-family: Merriweather;
+    font-size: 48px;,
+    color:#070211;
+}
+
+.email{
+    margin-right: 0px;
+    border-radius: 15px;
+    padding: 15px;
+}
+.ema{
+    margin-left: 0px;
+    background-color: #F00;
+    border-radius: 15px;
+    padding: 15px;
+}
+/*footer*/
+footer{
+    background-color: #070211;
+}
+.icon{
+    text-align: center;
+}
+.icon img{
+    padding: 0px 25px;
+}
+.lr{
+    displa
+}
+}
+.lit h2{
+   font-size: 25px; 
+   color:red;
+    padding-left: 126px;
+}
+
+.right h3{
+    font-size: 25px; 
+    color: #FFF;
+    display: flex;
+    width:50%;
 }
